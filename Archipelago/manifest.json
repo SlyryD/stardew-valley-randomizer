@@ -1,0 +1,10 @@
+{
+  "Name": "Archipelago",
+  "Author": "SlyRyD",
+  "Version": "0.1.0",
+  "Description": "Integrates Stardew Valley with Archipelago for Multiworlds",
+  "UniqueID": "SlyRyD.Archipelago",
+  "EntryDll": "Archipelago.dll",
+  "MinimumApiVersion": "4.0.1",
+  "UpdateKeys": [ "GitHub:SlyRyD/stardew-valley-randomizer" ]
+}
